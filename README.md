@@ -1,6 +1,6 @@
-# Hi, I'm Kabir! 👋
+# Hi, I'm Alex Miles! 👋
 
-I'm Kabir, a Discord Bot Developer, and here is my advanced Discord Music Bot.
+I'm Alex, a Discord Bot Developer, and here is my advanced Discord Music Bot.
 
 ## **Installation | How to use the Bot**
 
@@ -66,18 +66,3 @@ node index.js
 - DJ system
 - Works on Replit and other VPS
 
-## Music Bot Dashboard Setup
-
-[Click Here](https://github.com/kabirsingh2004/JUGNU-Dashboard/blob/main/README.md)
-
-## Feedback & Support
-
-If you have any feedback or need assistance, please join our [Discord Server](https://discord.gg/FuKfAREn9f).
-
-## License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
-### Thanks For Using Music Bot! Please Give it a Star and give credit
-
-Your support is appreciated! 🌟
